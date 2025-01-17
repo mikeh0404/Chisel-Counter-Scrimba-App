@@ -1,13 +1,14 @@
 body {
     background-image: url("Woodworking.jpeg");
     background-size: cover;
-    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: Copperplate, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
+    Color: white;
 }
 
 .container {
-    background: white;
+    background: ;
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
